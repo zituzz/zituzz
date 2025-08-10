@@ -18,5 +18,3 @@
 # Contact
 
 [Email](mailto:alex.ortsigu@gmail.com) | Discord: zituzz28
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/?theme=dark)](https://discord.com/users/)
