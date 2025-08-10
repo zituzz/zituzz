@@ -10,8 +10,8 @@
 ## Things I Know
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=js,ts,nestjs,express,graphql,angular,html,css,scss,prisma,linux,bash,nest,docker,figma"/>
-    <img src="https://skillicons.dev/icons?i=git,nextjs,nodejs,py,react,java,tailwind,vscode,aws,azure,"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,nestjs,express,graphql,vue,html,css,scss,prisma,linux,bash,nest,docker,figma"/>
+    <img src="https://skillicons.dev/icons?i=git,nextjs,nodejs,py,react,tailwind,vscode,aws,azure,django,vercel"/>
   </a>
 </p>
 
